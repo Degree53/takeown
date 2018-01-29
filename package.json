@@ -1,0 +1,27 @@
+{
+  "name": "takeown",
+  "version": "1.0.0",
+  "description": "Forcibly take control of directories on Windows to prevent permissions and file locking errors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Degree53/takeown.git"
+  },
+  "keywords": [
+    "Take",
+    "Ownership",
+    "Takeown",
+    "Permissions",
+    "File",
+    "Locking"
+  ],
+  "author": "Mike Geldard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Degree53/takeown/issues"
+  },
+  "homepage": "https://github.com/Degree53/takeown#readme"
+}
