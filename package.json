@@ -1,6 +1,6 @@
 {
   "name": "takeown",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Forcibly take control of directories on Windows to prevent permissions and file locking errors.",
   "main": "index.js",
   "scripts": {
