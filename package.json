@@ -16,7 +16,11 @@
     "Takeown",
     "Permissions",
     "File",
-    "Locking"
+    "Locking",
+    "EPERM",
+    "EACCES",
+    "EBUSY",
+    "ENOTEMPTY"
   ],
   "author": "Mike Geldard",
   "license": "MIT",
